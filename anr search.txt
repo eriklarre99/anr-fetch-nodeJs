@@ -1,0 +1,6 @@
+
+
+method get
+
+
+https://anr.org.py/consulta/server.php?nro_doc=5066975
